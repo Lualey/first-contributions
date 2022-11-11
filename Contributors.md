@@ -418,6 +418,7 @@ main
 - [Muhammed Emin Boydak](https://github.com/eminboydak)
 - [Teguh Widodo](https://github.com/teguhwin8)
 - [Harshit Arora](https://github.com/harshit0755)
+- Laurin
 - [Mayank Jha](https://github.com/mkjha482)
 - [Frank Akrasi Antwi](https://github.com/fantwi)
 - [Shreya Dubey](https://github.com/ShreyaDubey1001)
